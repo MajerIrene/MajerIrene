@@ -1,5 +1,5 @@
 ## About me
-My name is Irene Majer. I have a bachelor degree in Computer Science at Università degli Studi di Milano-Bicocca. I'm actually a student of the Bioinformatics and computational genomics course held by @Università di Milano and @Politecnico di Milano. In my page you will find the repositories about my university projects. Feel free to contact me in case there are errors or improvements to be made. I would really appreciate it. :heart:
+My name is Irene Majer. I hold a Bachelor's degree in Computer Science from the University of Milano-Bicocca. I am currently a student in the Bioinformatics and Computational Genomics program offered by the University of Milan and the Polytechnic University of Milan. On this page, you will find repositories of my university projects. Please feel free to contact me if you find any errors or have suggestions for improvements. I would greatly appreciate it. :heart:
 
 
 ## My interests
